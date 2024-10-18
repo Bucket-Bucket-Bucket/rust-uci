@@ -1,6 +1,6 @@
 [package]
 name = "rust-uci"
-version = "0.1.7"
+version = "0.2.0"
 authors = ["Benjamin Ludewig <ludewig.b@gmail.com>", "Hugo Hakim Damer <hdamer@uni-bremen.de>"]
 description = "OpenWRT UCI rust bindings"
 repository = "https://github.com/namib-project/libuci-sys"
